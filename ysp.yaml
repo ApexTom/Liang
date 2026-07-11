@@ -1,13 +1,7 @@
 payload:
   # 域名部分
-  - DOMAIN-SUFFIX,yangshipin.cn
-  - DOMAIN-SUFFIX,ysp.cctv.cn
-  - DOMAIN-SUFFIX,cctv.com
-  - DOMAIN-SUFFIX,cctv.cn
-  - DOMAIN-SUFFIX,img.yangshipin.cn
-  - DOMAIN-SUFFIX,w.yangshipin.cn
-  - DOMAIN-SUFFIX,alpham.yangshipin.cn
-  - DOMAIN-SUFFIX,cdn-applet.yangshipin.cn
-  - DOMAIN-SUFFIX,m.yangshipin.cn
-  - DOMAIN-SUFFIX,passport.yangshipin.cn
-  - DOMAIN-SUFFIX,v.cctv.com
+  - '+.yangshipin.cn'
+  - '+.ysp.cctv.cn'
+  - '+.cctv.com'
+  - '+.cctv.cn'
+
