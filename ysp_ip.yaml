@@ -1,0 +1,12 @@
+payload:
+  - IP-CIDR,117.69.72.231/32,no-resolve
+  - IP-CIDR,222.186.185.189/32,no-resolve
+  - IP-CIDR,58.222.38.254/32,no-resolve
+  - IP-CIDR,121.228.130.79/32,no-resolve
+  - IP-CIDR,121.228.130.80/32,no-resolve
+  - IP-CIDR,121.228.130.81/32,no-resolve
+  - IP-CIDR,220.167.6.162/32,no-resolve
+  - IP-CIDR,43.175.97.11/32,no-resolve
+  - IP-CIDR,43.175.97.15/32,no-resolve
+  - IP-CIDR,43.175.97.23/32,no-resolve
+  - IP-CIDR,43.175.97.26/32,no-resolve
