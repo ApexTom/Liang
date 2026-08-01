@@ -1,6 +1,6 @@
 payload:
-  - +.starhubgo.com
+  - '+.starhubgo.com'
   - 'api.starhub.otvse.com'
-  - +.otvse.com
-  - +.starhub.com
+  - '+.otvse.com'
+  - '+.starhub.com'
   
